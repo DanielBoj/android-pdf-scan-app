@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DocumentScannerApp</string>
+    <string name="scan">Scan PDF</string>
+</resources>
